@@ -53,7 +53,7 @@
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
-                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
     </tbody>
@@ -86,7 +86,7 @@
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
-                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
     </tbody>
