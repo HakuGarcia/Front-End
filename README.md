@@ -56,6 +56,15 @@
                 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Tarefa-01.git">Tarefa 01</a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -86,6 +95,15 @@
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Tarefa-01.git">Tarefa 01</a>
+            </td>
+            <td>
                 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
