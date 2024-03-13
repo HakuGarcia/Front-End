@@ -49,11 +49,20 @@
         <tr>
             <td>01</td>
             <td> 
-                <a href="https://github.com/HakuGarcia/Front-End/tree/1c1574d080fae270fd07bcb4ea4849cb8a1291ad/Aula01-Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Front-End/tree/1df9e6d610eb994335dccae6c52aacb5283b0630/Projeto01">Projeto01</a>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
-                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Tarefa-01.git">Tarefa 01</a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
     </tbody>
@@ -82,11 +91,20 @@
         <tr>
             <td>01</td>
             <td> 
-                <a href="https://github.com/HakuGarcia/Front-End/tree/1c1574d080fae270fd07bcb4ea4849cb8a1291ad/Aula01-Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Front-End/tree/1df9e6d610eb994335dccae6c52aacb5283b0630/Projeto01">Projeto01</a>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
-                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/Tarefa-01.git">Tarefa 01</a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
     </tbody>
