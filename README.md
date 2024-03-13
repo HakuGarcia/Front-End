@@ -91,7 +91,7 @@
         <tr>
             <td>01</td>
             <td> 
-                <a href="https://github.com/HakuGarcia/Front-End/tree/1c1574d080fae270fd07bcb4ea4849cb8a1291ad/Aula01-Aula05">Aula01 - Aula05</a>
+                <a href="https://github.com/HakuGarcia/Front-End/tree/1df9e6d610eb994335dccae6c52aacb5283b0630/Projeto01">Projeto01</a>
             </td>
             <td>
                 <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
