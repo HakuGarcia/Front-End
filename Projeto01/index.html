@@ -9,20 +9,88 @@
     <title>Aula 02 - Aula 03</title>
   </head>
   <body>
-
-    <div class="container"> <!-- Tag de bloco -->
-      <header class="cabecalho"> <!-- Tag de bloco -->
-        <h1 style="text-align: center; border: solid 2px #90c0ff;">Minha Página</h1>
-        <nav class="menu"> <!-- Tag de bloco -->
-          <ul> <!-- ul = unordered list (li ou ul) -->
+    <div class="container">
+      <!-- Tag de bloco -->
+      <header class="cabecalho">
+        <!-- Tag de bloco -->
+        <h1 style="text-align: center; border: solid 2px #90c0ff">
+          Minha Página
+        </h1>
+        <nav class="menu">
+          <!-- Tag de bloco -->
+          <ul>
+            <!-- ul = unordered list (li ou ul) -->
             <li><a href="./paginas/help.html">Help</a></li>
-            <li><a href="./paginas/contact.html">Contact</a></li>
             <li><a href="./paginas/about.html">About</a></li>
+            <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
-        <p>W3C (World Wide Web Consortium) é um consórcio que padronizou criações na web.</p>
+        <p>
+          W3C (World Wide Web Consortium) é um consórcio que padronizou criações
+          na web.
+        </p>
       </header>
-    </div>
 
+      <section class="conteudo">
+        <div>
+          <h2>HELP</h2>
+          <p>
+            Help - Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            Accusantium asperiores eum beatae! Laborum officiis assumenda
+            dolores impedit et similique corrupti aliquid eligendi culpa!
+            Expedita debitis iure, aspernatur sint quaerat a.
+          </p>
+          <a href="./paginas/help.html">Mais...</a>
+        </div>
+        <div>
+          <h2>ABOUT</h2>
+          <p>
+            About - Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Magnam vitae eius, deleniti eaque suscipit facilis distinctio
+            soluta? Ea repudiandae aliquid similique fugit. Ea adipisci, porro
+            aliquid quibusdam repudiandae consequuntur eveniet.
+          </p>
+          <a href="./paginas/about.html">Mais...</a>
+        </div>
+        <div id="contact">
+          <h2>CONTACT</h2>
+          <form action="">
+            <fieldset>
+              <legend>CONTACT</legend>
+              <div>
+                <label for="idNm">Nome:</label>
+                <input
+                  type="text"
+                  name="txtNm"
+                  id="idNm"
+                  placeholder="Digite seu nome."
+                />
+              </div>
+              <div>
+                <label for="idEmail">Email:</label>
+                <input
+                  type="email"
+                  name="txtEmail"
+                  id="idEmail"
+                  placeholder="Digite seu email."
+                />
+              </div>
+              <button type="button">Send</button>
+            </fieldset>
+          </form>
+        </div>
+      </section>
+
+      <footer class="rodape">
+        <!--nav.menu>ul>li*3>a[href="#"]{Item - $}-->
+        <nav class="menu">
+          <ul>
+            <li><a href="https://www.fiap.com.br" target="_blank">FIAP</a></li>
+            <li><a href="#" target="_blank">GOOGLE</a></li>
+            <li><a href="#" target="_blank">Github</a></li>
+          </ul>
+        </nav>
+      </footer>
+    </div>
   </body>
 </html>
