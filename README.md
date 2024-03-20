@@ -6,28 +6,23 @@
 </h1>
 
 <div align="center">
-    <p> 
-        Repositório de estudos para a matéria <strong> Front-End Design Engineering </strong> de Análise e Desenvolvimento de Sistemas da FIAP. <br> (o link para o curso se encontra no botão "FIAP") 
-    </p>
-    <p> 
-        Study repository for the subject <strong> Front-End Design Engineering </strong> of FIAP Systems Analysis and Development. <br> (the link tp the course is on the button "FIAP") 
-    </p>
-    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
-    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-    <br>
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=darkturquoise"/>
-    <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js&logoColor=green"/>
-    <br>
-    <a href="https://www.linkedin.com/in/hakuakai/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=blue">
-    </a>
-    <a href="https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/">
-        <img alt="Static Badge" src="https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=orange">
-    </a> <br> <br>
+Repositório de estudos para a matéria <strong> Front-End Design Engineering </strong> de Análise e Desenvolvimento de Sistemas da FIAP. <br> (o link para o curso se encontra no botão "FIAP")
+
+<br>
+
+Study repository for the subject <strong> Front-End Design Engineering </strong> of FIAP Systems Analysis and Development. <br> (the link tp the course is on the button "FIAP")
+
+[![](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)]()
+[![](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&logoColor=white)]() <br>
+[![](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange)]()
+[![](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)]()
+[![](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)]() <br>
+[![](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=darkturquoise)]()
+[![](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js&logoColor=green)]()
+
+[![](https://img.shields.io/badge/my%20profile-red?style=for-the-badge&color=blue)](https://www.linkedin.com/in/hakuakai/)
+[![](https://img.shields.io/badge/FIAP-red?style=for-the-badge&color=orange)](https://www.fiap.com.br/graduacao/tecnologo/analise-e-desenvolvimento-de-sistemas/)
+
 </div>
 
 <div>
