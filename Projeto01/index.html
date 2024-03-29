@@ -6,14 +6,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width:device-width" />
     <!-- Se adapta a largura da tela -->
-    <title>Aula 02 - Aula 03</title>
+    <title>Projeto Inicial</title>
+    <link rel="stylesheet" href="./css/style.css">
   </head>
   <body>
-    <div class="container">
+
+    <div class="container" id="cont_index1">
       <!-- Tag de bloco -->
-      <header class="cabecalho">
+
+      <header class="cabecalho" id="cabe_index1">
         <!-- Tag de bloco -->
-        <h1 style="text-align: center; border: solid 2px #90c0ff">
+        <h1>
           Minha Página
         </h1>
         <nav class="menu">
@@ -31,8 +34,8 @@
         </p>
       </header>
 
-      <section class="conteudo">
-        <div>
+      <section class="conteudo" id="conteudo">
+        <div class="div_cont">
           <h2>HELP</h2>
           <p>
             Help - Lorem ipsum dolor sit, amet consectetur adipisicing elit.
@@ -40,9 +43,9 @@
             dolores impedit et similique corrupti aliquid eligendi culpa!
             Expedita debitis iure, aspernatur sint quaerat a.
           </p>
-          <a href="./paginas/help.html">Mais...</a>
+          <a class="link" href="./paginas/help.html">Mais...</a>
         </div>
-        <div>
+        <div class="div_cont">
           <h2>ABOUT</h2>
           <p>
             About - Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -50,11 +53,11 @@
             soluta? Ea repudiandae aliquid similique fugit. Ea adipisci, porro
             aliquid quibusdam repudiandae consequuntur eveniet.
           </p>
-          <a href="./paginas/about.html">Mais...</a>
+          <a class="link" href="./paginas/about.html">Mais...</a>
         </div>
-        <div id="contact">
+        <div class="div_cont" id="contact">
           <h2>CONTACT</h2>
-          <form action="">
+          <form>
             <fieldset>
               <legend>CONTACT</legend>
               <div>
@@ -81,7 +84,7 @@
         </div>
       </section>
 
-      <footer class="rodape">
+      <footer class="rodape" id="roda_index1">
         <!--nav.menu>ul>li*3>a[href="#"]{Item - $}-->
         <nav class="menu">
           <ul>
