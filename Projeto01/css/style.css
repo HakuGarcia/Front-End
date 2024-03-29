@@ -35,3 +35,8 @@ p {
     background-color: #5698d1;
     color: aliceblue;
 }
+
+footer{
+    margin-top: 10px;
+    border-top: 2px solid #952626;
+}
