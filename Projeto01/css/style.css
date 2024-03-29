@@ -31,3 +31,7 @@ p {
     color: rgb(10, 142, 96);
 }
 
+#contact button{
+    background-color: #5698d1;
+    color: aliceblue;
+}
