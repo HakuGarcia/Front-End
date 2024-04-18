@@ -61,6 +61,25 @@ Study repository for the subject <strong> Front-End Design Engineering </strong>
                 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
             </td>
         </tr>
+        <tr>
+        <td>03</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/CP01.git">CheckPoint 01</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <td>04</td>
+            <td> 
+                <a href="https://github.com/1TDSPM-2024/base-prototipo.git">Protótipo 01</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
+                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
+            </td>
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -101,6 +120,24 @@ Study repository for the subject <strong> Front-End Design Engineering </strong>
             </td>
             <td>
                 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <td>03</td>
+            <td> 
+                <a href="https://github.com/HakuGarcia/CP01.git">CheckPoint 01</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
+                <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red"/>
+            </td>
+        </tr>
+        <td>04</td>
+            <td> 
+                <a href="https://github.com/1TDSPM-2024/base-prototipo.git">Protótipo 01</a>
+            </td>
+            <td>
+                <img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=orange">
+                <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue"/>
             </td>
         </tr>
     </tbody>
